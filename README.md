@@ -11,7 +11,6 @@ This project demonstrates how to create an interactive, multi-step survey form t
 
 * **JavaScript Functionality:**  Drives the form's dynamic behavior and interactivity:
     * **Step Navigation:**  Controls the progression between survey steps, showing and hiding relevant question sets.  ↕️
-    * **Input Validation:**  Client-side validation to ensure data integrity and provide immediate feedback to users.  ⚠️
     * **Progress Indicator:**  Visually displays the user's progress through the survey.  📊
     * **Smooth Animations:**  Engaging animations enhance the user experience during step transitions and form submission.  🎬
     * **Data Storage (Simulated):**  JavaScript stores the collected data (though in a real application, this would be sent to a server).  💾
